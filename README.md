@@ -1,5 +1,7 @@
 # auto-rental
 
+djangorestframework + postgres
+
 ## envs to setup
 
 create a .env file in the root directory
