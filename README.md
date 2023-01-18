@@ -26,7 +26,7 @@ DB_PORT=
 
 mkdir auto-rental
 
-git clone 
+git clone https://github.com/sharun-vs/auto-rental.git
 
 cd auto-rental
 
